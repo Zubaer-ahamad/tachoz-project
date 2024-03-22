@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Exo", sans-serif;
+    /* font-family: fira sans; */
+}
+
+.carousel-text-section{
+    position: absolute;
+    top: 30%;
+    left: 300px;
+}
+
+.carousel-title {
+    font-size: 60px;
+    font-weight: 700;
+    color: white;
+}
+
+.carousel-sub-title{
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffff;
+    padding: 2px 6px;
+    border: 2px solid white;
+}
+
+.featured-icon{
+    width: 120px;
+    height: 120px;
+}
+
+.position-featured-icon{
+    position: absolute;
+    top: 50%;
+    left: 80px;
+};
